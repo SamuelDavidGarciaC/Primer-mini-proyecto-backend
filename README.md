@@ -27,3 +27,5 @@ Samuel David García Carrillo
 IMAGENES
 
 ![IMG_20221021_180942445_HDR](https://user-images.githubusercontent.com/106408461/197304075-eb2f1526-0d42-470c-b64e-6f900ad21d88.jpg)
+
+![Captura de pantalla (779)](https://user-images.githubusercontent.com/106408461/197304496-440911a4-ed7a-4110-bd2e-8d1017e1fc3e.png)
