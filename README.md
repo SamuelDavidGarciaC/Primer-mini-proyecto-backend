@@ -8,10 +8,10 @@ Le dí un mayor uso a Node.JS y Express.JS e hicé una cuenta en Mongo Atllas el
 
 TECNOLOGIAS
 
-NodeJS
-ExpressJS
-Git Hub
-Visual Studio Code
+NodeJS, 
+ExpressJS, 
+Git Hub, 
+Visual Studio Code, 
 Mongo Atlass
 
 ¿COMO LO HICE?
