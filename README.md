@@ -15,6 +15,7 @@ Visual Studio Code,
 Mongo Atlass
 
 ¿COMO LO HICE?
+
 Investigué cada uno de los conceptos asignados,los redacte en la bitácora con mis palabras y lo que interpreté,luego pase a la practica con el proyecto.
 
 Primero que todo me cerciore de tener las versiones más recientes de NodeJS y ExpressJS porque ya contaba con estas, hice una nueva cuenta en Mongo Atlass,la configuré e hice todos los pasos que se indicaron en los videos,una vez hecho todo lo anterior sentí alegría porque me funciono, despues lo subí al repositorio en Git Hub y me dedique a hacer el README que estás leyendo en estos momentos.
