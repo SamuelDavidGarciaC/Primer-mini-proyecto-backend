@@ -1,20 +1,6 @@
 const express = require('express')
-const routerApi = require('./routes')
 
-const app = express()
-const port = 3000
-
-app.get("/", (req, res) => {
-    res.send("Hola humanos, tengan un buen día")
-})
-
-routerApi(app)
-
-app.get("/chanchitofeliz", (req, res) => {
-    res.send("Chanchito feliz")
-})
- 
-
+const router = express.Router()
 
 app.get("/seminarios", (req, res) => {
     res.json([
@@ -56,13 +42,8 @@ app.get("/seminarios", (req, res) => {
             Duración: "1:25 horas",
         },
         
-        
-        
-        
     ]
     )
 })
 
-app.listen(port, () => {
-    console.log("Mi puerto es "+ port)
-})
+module.exports = router
