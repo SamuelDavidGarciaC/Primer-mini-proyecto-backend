@@ -16,15 +16,14 @@ router.get("/", (req, res) => {
             Duración: "2 horas",
         },
         {
-            Name: "Seminario para evitar los gastos hormigas ",
+            Nombre: "Seminario para evitar los gastos hormigas ",
             Tipo : "Hogar",
             Duración:"40 minutos",
         },
-        
-            Nombre: " Seminario sobre cómo utilizar de la mejor manera tu tarjeta crédito y débito ",
+        {   Nombre: " Seminario sobre cómo utilizar de la mejor manera tu tarjeta crédito y débito ",
             Tipo: "Hogar",
             Duración: "2:30 horas",
-        }
+        },
         {
             Name: "Seminario sobre cómo disminuir los costos en tu negocio ",
             Tipo : "Empresa",
@@ -45,9 +44,9 @@ router.get("/", (req, res) => {
             Nombre: " Seminario de por qué es importante realizar el análisis financiero en la empresa ",
             Tipo: "Empresa",
             Duración: "1:25 horas",
-        }
+        },
   
-    ]
+    ])
     
 })
 
